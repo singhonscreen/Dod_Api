@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dod_Api/static/css/main.19c6a185.chunk.css",
+    "main.js": "/Dod_Api/static/js/main.f28a6af1.chunk.js",
+    "main.js.map": "/Dod_Api/static/js/main.f28a6af1.chunk.js.map",
+    "runtime-main.js": "/Dod_Api/static/js/runtime-main.97f90280.js",
+    "runtime-main.js.map": "/Dod_Api/static/js/runtime-main.97f90280.js.map",
+    "static/js/2.9e571107.chunk.js": "/Dod_Api/static/js/2.9e571107.chunk.js",
+    "static/js/2.9e571107.chunk.js.map": "/Dod_Api/static/js/2.9e571107.chunk.js.map",
+    "index.html": "/Dod_Api/index.html",
+    "static/css/main.19c6a185.chunk.css.map": "/Dod_Api/static/css/main.19c6a185.chunk.css.map",
+    "static/js/2.9e571107.chunk.js.LICENSE.txt": "/Dod_Api/static/js/2.9e571107.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97f90280.js",
+    "static/js/2.9e571107.chunk.js",
+    "static/css/main.19c6a185.chunk.css",
+    "static/js/main.f28a6af1.chunk.js"
+  ]
+}
